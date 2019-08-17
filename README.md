@@ -11,3 +11,7 @@ Minibloq v0.83 version. This is the latest wxWidgets based Minibloq version.
     - Added Japanese translation (credits on http://blog.minibloq.org/p/credits.html)
 	- Added updatePack1 (Flat Icons) and updatePack2 (Classic 3D Icons) so the user can install the them he prefers (available here: https://github.com/miniBloq/v0.83/tree/master/updatePacks).
 
+- Changes by Rahul-Ratheesh:
+	- Integrated Electric Ray Robot an open source roboti platform (https://github.com/Protocentral/Electric-Ray-Robot)
+	- Developed a Curriculum for Programming Electric Ray Robot with miniBloq (https://sites.google.com/site/electricrayprogramming/)
+
